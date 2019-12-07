@@ -1,2 +1,2 @@
 # CRUD-Usuarios
-CRUD Hecho en python 3.7  y sqlite3
+CRUD Hecho en python 3.7 con tkinter y sqlite3
